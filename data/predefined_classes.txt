@@ -1,4 +1,10 @@
-blue_bin
-red_bin
-mat
-flare
+jiangshi
+draugar
+tagalog_mandurugo
+vatalas
+bat
+wolf
+torpedo
+heart
+circle1
+circle2
