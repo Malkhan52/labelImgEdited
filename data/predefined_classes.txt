@@ -6,5 +6,5 @@ bat
 wolf
 torpedo
 heart
-circle1
-circle2
+circle
+
